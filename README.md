@@ -1,7 +1,7 @@
 # CS-340-Journal
 
 1. Writing Maintainable, Readable, and Adaptable Programs
-   
+
 Through this project, I learned to write code in a modular way so that it would be easy to maintain.
 The CRUD Python Module separated all database functionality from the code that handled visualization.
 This left the dashboard code cleaner and easier to debug when I ran into issues.
