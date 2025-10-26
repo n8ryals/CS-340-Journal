@@ -16,6 +16,7 @@ like active databases, web dashboards, and dynamic queries.
 For future projects, I'll start with clear data models and use mock data to prototype my projects quickly.
 
 3. What Computer Scientists Do and Why It Matters
+
 Computer scientists morph data in a way to provide insights and create products that improve quality of life and decision making.
 In this project, my dashboard allows the user to sort animals instantly by breed, age, and rescue potential.
 This gives the organization resources that can be used to save lives.
